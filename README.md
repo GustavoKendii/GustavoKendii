@@ -1,4 +1,4 @@
-- 👋 Hello, I’m @GustavoKendii. Let's learn together!
+- 👋 Hello, I’m Kendi. Let's learn together!
 - 👀 I’m interested in learn more about C# and it uses to improve my skills as programer. I love to produce games and learn about that industry too.
 - 🌱 I’m currently learning C# language and unity.
 - 💞️ I’m looking to collaborate on tools and programs that inspire people to be better.
